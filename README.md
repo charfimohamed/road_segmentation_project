@@ -1,4 +1,6 @@
- # Road Segmentation Project [report](https://github.com/charfimohamed/road_segmentation_project/blob/main/report.pdf)
+ # Road Segmentation Project 
+
+ [Report here](https://github.com/charfimohamed/road_segmentation_project/blob/main/report.pdf)
 
 This project focuses on the segmentation of roads in images using three different models.
  The following is an organizational structure and explanation of each file within the project.
